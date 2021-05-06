@@ -1,1 +1,1 @@
-# leraning-jest
+# learning-jest
